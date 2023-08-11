@@ -1,0 +1,2 @@
+// when we upload our code in github /node_modules file auto ignore(not upload in github)
+/node_modules
